@@ -13,3 +13,6 @@ To run the automation test suite locally, follow these steps:
 
     Create new role 
          npx jest createNewRole.test.js
+
+    Update an existing role 
+         npx jest updateRole.test.js
